@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\acwr2\\onedrive\\desktop\\repos\\factory-pattern\\factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\acwr2\\onedrive\\desktop\\repos\\factory-pattern\\factorypattern\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\acwr2\\onedrive\\desktop\\repos\\factory-pattern\\factorypattern\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\acwr2\\onedrive\\desktop\\repos\\factory-pattern\\factorypattern\\threewheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\threewheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\acwr2\\onedrive\\desktop\\repos\\factory-pattern\\factorypattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\acwr2\\onedrive\\desktop\\repos\\factory-pattern\\factorypattern\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\acwr2\\onedrive\\desktop\\repos\\factory-pattern\\factorypattern\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98575E-259D-42D8-8848-50B7F850108D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\Motorcycle.cs",
+              "RelativeToolTip": "FactoryPattern\\Motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:11:30.195Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\Car.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Car.cs",
+              "ToolTip": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\Car.cs",
+              "RelativeToolTip": "FactoryPattern\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:09:06.284Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\ConsoleLogger.cs",
+              "RelativeToolTip": "FactoryPattern\\ConsoleLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:03:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThreeWheeler.cs",
+              "DocumentMoniker": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\ThreeWheeler.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\ThreeWheeler.cs",
+              "ToolTip": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\ThreeWheeler.cs",
+              "RelativeToolTip": "FactoryPattern\\ThreeWheeler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:25:51.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\VehicleFactory.cs",
+              "RelativeToolTip": "FactoryPattern\\VehicleFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:14:24.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\IVehicle.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\IVehicle.cs",
+              "RelativeToolTip": "FactoryPattern\\IVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:07:37.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\Program.cs",
+              "RelativeToolTip": "FactoryPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:22:34.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
